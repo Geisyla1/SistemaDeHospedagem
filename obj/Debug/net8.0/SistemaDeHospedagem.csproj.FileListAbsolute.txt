@@ -12,3 +12,4 @@ C:\Users\range\OneDrive\Área de Trabalho\SistemaDeHospedagem\obj\Debug\net8.0\r
 C:\Users\range\OneDrive\Área de Trabalho\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.pdb
 C:\Users\range\OneDrive\Área de Trabalho\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.genruntimeconfig.cache
 C:\Users\range\OneDrive\Área de Trabalho\SistemaDeHospedagem\obj\Debug\net8.0\ref\SistemaDeHospedagem.dll
+C:\Users\range\OneDrive\Área de Trabalho\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.sourcelink.json
